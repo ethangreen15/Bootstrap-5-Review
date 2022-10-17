@@ -1,3 +1,8 @@
+html,
+body {
+ height: 100%;
+ font-size: 1rem;
+}
 gradient {
     background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(204,11,192,1) 85%, rgba(0,212,255,1) 100%);
